@@ -7,7 +7,7 @@
   - Formandome como desarrollador full stack. 📚
 
 ## Find me 🗺:
-[![LinkedIn URL](https://img.shields.io/twitter/url?color=%230e76a8&label=LinkedIn&logo=Linkedin&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fadel-fetner%2F)](https://www.linkedin.com/in/mariano-arias1/)\
+[![LinkedIn URL](https://img.shields.io/twitter/url?color=%230e76a8&label=LinkedIn&logo=Linkedin&logoColor=white&style=for-the-badge&url=https://www.linkedin.com/in/mariano-arias1/)](https://www.linkedin.com/in/mariano-arias1/)\
 [![Instagram URL](https://img.shields.io/twitter/url?color=%23FD1D1D&label=Instagram%21&logo=Instagram&logoColor=orange&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fadelfetner%2F)](https://www.instagram.com/mariano_arias1/)
 
 
